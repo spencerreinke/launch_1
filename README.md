@@ -3,4 +3,4 @@ Debatable
 Launch Page
 -----------
 
-This is the first iteration of the launch page for Debatable.
+This is the first iteration of the launch page for **debatable.co**.
